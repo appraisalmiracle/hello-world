@@ -1,2 +1,2 @@
 # hello-world
-This is a walkthrough of how to use GitHub
+We are a small company looking to change how you manage your healthcare relationships.
